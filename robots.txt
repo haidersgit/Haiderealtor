@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haiderealtor.netlify.app/sitemap.xml
